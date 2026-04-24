@@ -63,3 +63,5 @@ npm run dev
 
 ## Receipt Printing
 Visit any completed order and click "Print Receipt". The browser print dialog will open with a thermal-style 80mm receipt layout.
+
+Have fun pak anas :)
