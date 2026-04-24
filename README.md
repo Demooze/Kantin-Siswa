@@ -64,4 +64,4 @@ npm run dev
 ## Receipt Printing
 Visit any completed order and click "Print Receipt". The browser print dialog will open with a thermal-style 80mm receipt layout.
 
-Have fun pak anas :)
+Have fun pak anas :), pls jgn tanyain knp selalu keluar notif gagal menambahkan pas nambahin order tpi aslinya ketambah di keranjang, sm pls jgn tanyain knp klo nambah produk langsung nambah 2 ya, akw sdh malas debugging, udh ada diatas 5 prototype projectnya sblm ini...yg penting berfungsi, ya gak pak? ok tq.
